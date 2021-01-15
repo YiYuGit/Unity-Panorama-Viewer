@@ -1,7 +1,6 @@
 # Unity-Panorama-Viewer
 A panoramic image viewer based on Unity
 
-Welcome to the Unity-Panorama-Viewer wiki!
 
 This is a simple panoramic image viewer base on Unity game engine.
 
