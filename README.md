@@ -14,6 +14,8 @@ Finally, view the material from the center of the sphere.
 
 User can switch image, change view direction and zoom in and out.
 
+User can can also take screen shot for viewing part of the panorama.
+
 The sample images come from https://pixexid.com/search/360%20panoramic
 
 The Website announced: You can download free 360 panoramic pictures and use them for commercial or personal projects, free equirectangular 360 degree images to use and share anywhere.
