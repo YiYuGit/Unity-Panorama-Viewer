@@ -12,7 +12,7 @@ Attach the each material to a sphere object.
 
 Finally, view the material from the center of the sphere.
 
-[My image](https://github.com/YiYuGit/Unity-Panorama-Viewer/blob/main/Assets/PanoViewerExample.png)
+![plot](https://github.com/YiYuGit/Unity-Panorama-Viewer/blob/main/Assets/PanoViewerExample.png)
 
 User can switch image, change view direction and zoom in and out.
 
