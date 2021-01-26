@@ -23,3 +23,5 @@ The sample images come from https://pixexid.com/search/360%20panoramic
 The Website announced: You can download free 360 panoramic pictures and use them for commercial or personal projects, free equirectangular 360 degree images to use and share anywhere.
 
 If you don't want to use the whole project, just import the PanoViewPack.unitypackage
+
+Additionally, similar method can be used to make a panoramic video player, attach a video player to the sphere object. But the video file should be mirrior before put into the player.
